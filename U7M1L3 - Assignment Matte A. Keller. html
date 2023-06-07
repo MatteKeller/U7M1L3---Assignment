@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head>
+  <script type="text/javascript" src="jquery-1.8.0.min.js"></script>
+  <script type="text/javascript" src="my_code_events.js"></script>
+  <title>Events</title>
+</head>
+<body>
+  <div>
+    <p>Division one</p>
+  </div>
+  <div>
+    <p>Division two</p>
+  </div>
+  <div>
+    <p>Division three</p>
+  </div>
+  <p id="stop">STOP mouseleave events (i.e., do not turn black)</p>
+</body>
